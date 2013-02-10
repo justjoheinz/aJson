@@ -8,3 +8,6 @@ Release/
 
 #some Mac stuff
 .DS_Store
+
+# Unix backup files
+*~
